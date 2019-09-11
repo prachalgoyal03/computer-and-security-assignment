@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+merchandiser.wp-theme.design	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+merchandiser.wp-theme.design	TRUE	/	FALSE	1999999999	wp_woocommerce_session_10b3bc1866871281d3e8066383db6118	0382a65a2b9d9fd5ff82e1d18f41f884%7C%7C1568400772%7C%7C1568397172%7C%7Cf067202d49b48082b1e788e4b8f79185
+merchandiser.wp-theme.design	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	a13f8181843a873f14c8504fe986ad49
+

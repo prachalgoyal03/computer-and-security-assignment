@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="120"
+   height="24">
+  <path
+     d="M23.04,9h-8.27L12,1L9.23,9L0.96,9.021l6.559,5.043L5.177,22L12,17.321L18.823,22l-2.342-7.935L23.04,9z"
+     style="fill:#000000;"
+     id="path1874" />
+  <use
+     transform="translate(24,0)"
+     id="use4643"
+     x="0"
+     y="0"
+     width="24"
+     height="24"
+     xlink:href="#path1874" />
+  <use
+     transform="translate(48,0)"
+     id="use4645"
+     x="0"
+     y="0"
+     width="24"
+     height="24"
+     xlink:href="#path1874" />
+  <use
+     transform="translate(72,0)"
+     id="use4647"
+     x="0"
+     y="0"
+     width="24"
+     height="24"
+     xlink:href="#path1874" />
+  <use
+     transform="translate(96,0)"
+     id="use4650"
+     x="0"
+     y="0"
+     width="24"
+     height="24"
+     xlink:href="#path1874" />
+</svg>
